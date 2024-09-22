@@ -1,1 +1,20 @@
-# making-hexagon-in-mu-edtor
+import turtle
+t=turtle.Turtle()
+t.shape("turtle")
+t.forward(100)
+t.right(45)
+t.forward(100)
+t.right(45)
+t.forward(100)
+t.right(45)
+t.forward(100)
+t.right(45)
+t.forward(100)
+t.right(45)
+t.forward(100)
+t.right(45)
+t.forward(100)
+t.right(45)
+t.forward(100)
+
+turtle.done()
